@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This circuit is a digital amplifier built using only simple logic gates. It cancels out unwanted noise and boosts the desired signal, much like noise-canceling headphones. Its digital nature simplifies integration and automated design.
 
 ## How to test
 
-Explain how to use your project
-
+Entering voltage through the input
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware used
